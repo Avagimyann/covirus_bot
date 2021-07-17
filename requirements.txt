@@ -1,2 +1,2 @@
-telegraf
-covid19-api
+telegraf=4.3.0
+covid19-api=1.2.1
